@@ -3,7 +3,7 @@ using System.IO;
 using System.Text.RegularExpressions;
 using Microsoft.EntityFrameworkCore;
 
-namespace AstroHelper2
+namespace AstroHelper3
 {
     public class FormattingHome
     {
@@ -22,18 +22,13 @@ namespace AstroHelper2
 
             using (var context = new AppDBContext())
             {
-                // Очистка таблицы
-                context.Database.ExecuteSqlRaw("DELETE FROM Homes");
-
                 foreach (Match match in matches)
                 {
-                    if (match.Success)
-                    {
-                        string home = match.Groups[1].Value;
-                        string position = match.Groups[2].Value;
+                    int home = int.Parse(match.Groups[1].Value);
+                    string position = match.Groups[2].Value.Trim();
 
-                        context.HomeDbs.AddRange(home, position);
-                    }
+                    var entry = new HomeDB{Home = home, Position = position};
+                    context.Update(entry);
                 }
 
                 context.SaveChanges();

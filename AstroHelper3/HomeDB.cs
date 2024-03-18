@@ -1,17 +1,21 @@
-namespace AstroHelper2;
+using System.ComponentModel.DataAnnotations;
+
+namespace AstroHelper3;
 
 public class HomeDB
 {
     
-        public string? home { get; set; }
-        public string? position { get; set; }
+    [Key]
+    public int Home { get; set; } // Первичный ключ
+    public string? Position { get; set; }
     
+    public ICollection<PlanetsDB> Planets { get; set; } = new List<PlanetsDB>();
         public HomeDB() { }
 
-        public HomeDB(string home, string position)
+        public HomeDB(int home, string position)
         {
-            this.home = home;
-            this.position = position;
+            this.Home = home;
+            this.Position = position;
         }
     
 }
