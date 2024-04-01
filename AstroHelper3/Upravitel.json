@@ -1,0 +1,17 @@
+[
+  {
+    "Home": 1,
+    "UpravitelPosition": 1,
+    "Description": "Описание для Управителя 1 дома в 1 доме."
+  },
+  {
+    "Home": 1,
+    "UpravitelPosition": 2,
+    "Description": "Описание для Управителя 1 домав 2 доме."
+  },
+  {
+    "Home": 2,
+    "UpravitelPosition": 1,
+    "Description": "Описание для Управителя 2 дома в 1 доме."
+  }
+]

@@ -22,8 +22,9 @@ class Program
             // string c1 = Uri.EscapeDataString("Москва, Россия"); // Кодирование для использования в URL
             //
             // string url = $"https://geocult.ru/natalnaya-karta-onlayn-raschet?fn={fn}&fd={fd}&fm={fm}&fy={fy}&fh={fh}&fmn={fmn}&c1={c1}&ttz={{ttz}}&tz={{tz}}&tm={{tm}}&lt={{lt}}&ln={{ln}}&hs={{hs}}&sb={{sb}}";
-            string url = "https://geocult.ru/natalnaya-karta-onlayn-raschet?fn=Юлия&fd=12&fm=3&fy=1986&fh=15&fmn=44&c1=Москва%2C+Россия&ttz=20&tz=Europe%2FMoscow&tm=3&lt=55.7522&ln=37.6155&hs=P&sb=1";
-            
+            string url =
+                "https://geocult.ru/natalnaya-karta-onlayn-raschet?fn=Юлия&fd=12&fm=3&fy=1986&fh=15&fmn=44&c1=Москва%2C+Россия&ttz=20&tz=Europe%2FMoscow&tm=3&lt=55.7522&ln=37.6155&hs=P&sb=1";
+
             WebClient client = new WebClient();
             string html = client.DownloadString(url);
 
@@ -48,29 +49,35 @@ class Program
             Console.WriteLine("\nException Caught!");
             Console.WriteLine("Message :{0} ", e.Message);
         }
-        string filePathHome = "Home.xml"; 
+
+        string filePathHome = "Home.xml";
         FormattingHome formattingHome = new FormattingHome(filePathHome);
         formattingHome.ProcessFileHome();
-        
-        string filePathPlanets = "Planets.xml"; 
+
+        string filePathPlanets = "Planets.xml";
         FormattingPlanets formattingPlanets = new FormattingPlanets(filePathPlanets);
         formattingPlanets.ProcessFilePlanets();
-        
-        
-        
-        
+
+
+
+
         var context = new AppDBContext();
         string outputPath = "Horoscope.txt";
-        string jsonFilePath = "PlanetHomeOpisanie.json"; 
+        string jsonFilePath = "PlanetHomeOpisanie.json";
         var processor = new PlanetInHomeDescription(context, outputPath, jsonFilePath);
         processor.GenerateDescriptionsPlanetHome();
 
-        
+
+        string jsonFilePathUpr = "Upravitel.json";
+        var processorupr = new UpravitelInHomeDescription(context, outputPath, jsonFilePathUpr);
+        processorupr.GenerateDescriptionsUpraviteltHome();
+
+
     }
 
-    
-
-   
-
-
 }
+
+
+
+
+
