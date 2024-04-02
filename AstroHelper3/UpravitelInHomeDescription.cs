@@ -9,6 +9,7 @@ public class UpravitelInHomeDescription
     private AppDBContext _context;
     private string _outputFilePath;
     private string _jsonFilePath;
+    
 
     public UpravitelInHomeDescription(AppDBContext context, string outputFilePath, string jsonFilePath)
     {
@@ -63,9 +64,9 @@ public class UpravitelInHomeDescription
                             d.Home == homeDb.Home && d.UpravitelPosition == planetHomeNumber)?.Description 
                                           ?? "Описание отсутствует.";
 
-                        writer.WriteLine($"Дом {homeDb.Home} ({homeDb.Position}), управитель - {planetName} " +
-                                         $"в доме {planetHomeNumber}. " +
-                                         $"Описание: {description}");
+                        writer.WriteLine($"Дом {homeDb.Home} ({homeDb.Position}), управитель - {planetName}" +
+                                         $"в доме {planetHomeNumber}.\n " +
+                                         $"Описание: {description}\n");
                     }
                     }
                     else

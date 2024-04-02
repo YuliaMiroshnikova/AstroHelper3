@@ -11,6 +11,7 @@ public class PlanetInHomeDescription
     private string _outputFilePath;
     private string _jsonFilePath; 
     
+    
     public PlanetInHomeDescription(AppDBContext context, string outputFilePath, string jsonFilePath)
     {
         _context = context;
@@ -49,10 +50,12 @@ public class PlanetInHomeDescription
 
         if (!string.IsNullOrEmpty(jsonDescription))
         {
-            return $"{planet.Planets}, Дом: {planet.Home}, Позиция: {planet.Position}. {jsonDescription}";
+            return $"{planet.Planets}, Дом: {planet.Home}, Позиция: {planet.Position}. \n " +
+                   $"{jsonDescription}\n";
         }
 
-        return $"Планета: {planet.Planets} в доме {planet.Home} не имеет специфического описания.";
+        return $"Планета: {planet.Planets} в доме {planet.Home} \n " +
+               $"не имеет специфического описания.\n";
     }
 }
 

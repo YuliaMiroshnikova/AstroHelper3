@@ -71,8 +71,13 @@ class Program
         string jsonFilePathUpr = "Upravitel.json";
         var processorupr = new UpravitelInHomeDescription(context, outputPath, jsonFilePathUpr);
         processorupr.GenerateDescriptionsUpraviteltHome();
-
-
+        
+       
+        
+        string jsonFilePathHomes = "KarmaHome.json"; 
+        string jsonFilePathPositions = "KarmaPosition.json";
+        var processorKarma = new KarmicNodesProcessor(context, outputPath, jsonFilePathHomes, jsonFilePathPositions);
+        processorKarma.ProcessKarmicNodes();
     }
 
 }
