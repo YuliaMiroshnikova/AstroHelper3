@@ -2,7 +2,62 @@
   {
     "HomeNorth": 9,
     "HomeSouth": 3,
-    "Description": "Описание для Кармического 1 дома в 1 доме."
+    "Description": "Северный в 9, южный в 3."
+  },
+  {
+    "HomeNorth": 3,
+    "HomeSouth": 9,
+    "Description": "Северный в 3, южный в 9."
+  },
+  {
+    "HomeNorth": 1,
+    "HomeSouth": 7,
+    "Description": "Северный в 1, южный в 7."
+  },
+  {
+    "HomeNorth": 7,
+    "HomeSouth": 1,
+    "Description": "Северный в 7, южный в 1."
+  },
+  {
+    "HomeNorth": 2,
+    "HomeSouth": 8,
+    "Description": "Северный в 2, южный в 8."
+  },
+  {
+    "HomeNorth": 8,
+    "HomeSouth": 2,
+    "Description": "Северный в 8, южный в 2."
+  },
+  {
+    "HomeNorth": 4,
+    "HomeSouth": 10,
+    "Description": "Северный в 4, южный в 10."
+  },
+  {
+    "HomeNorth": 10,
+    "HomeSouth": 4,
+    "Description": "Северный в 10, южный в 4."
+  },
+  {
+    "HomeNorth": 5,
+    "HomeSouth": 11,
+    "Description": "Северный в 5, южный в 11."
+  },
+  {
+    "HomeNorth": 11,
+    "HomeSouth": 5,
+    "Description": "Северный в 11, южный в 5."
+  },
+  {
+    "HomeNorth": 6,
+    "HomeSouth": 12,
+    "Description": "Северный в 6, южный в 12."
+  },
+  {
+    "HomeNorth": 12,
+    "HomeSouth": 6,
+    "Description": "Северный в 12, южный в 6."
   }
  
   

@@ -2,7 +2,62 @@
   {
     "PositionNorth": "Телец",
     "PositionSouth": "Скорпион",
-    "Description": "Описание для Кармического 1 дома в 1 доме."
+    "Description": "Северный в Тельце, южный в скорпионе."
+  },
+  {
+    "PositionNorth": "Скорпион",
+    "PositionSouth": "Телец",
+    "Description": "Северный в скорпионе, южный в тельце."
+  },
+  {
+    "PositionNorth": "Близнецы",
+    "PositionSouth": "Стрелец",
+    "Description": "Северный в Близнецы, южный в Стрелец."
+  },
+  {
+    "PositionNorth": "Стрелец",
+    "PositionSouth": "Близнецы",
+    "Description": "Северный в Стрелец, южный в Близнецы."
+  },
+  {
+    "PositionNorth": "Рак",
+    "PositionSouth": "Козерог",
+    "Description": "Северный в Рак, южный в Козерог."
+  },
+  {
+    "PositionNorth": "Козерог",
+    "PositionSouth": "Рак",
+    "Description": "Северный в Козерог, южный в Рак."
+  },
+  {
+    "PositionNorth": "Лев",
+    "PositionSouth": "Водолей",
+    "Description": "Северный в Лев, южный в Водолей"
+  },
+  {
+    "PositionNorth": "Водолей",
+    "PositionSouth": "Лев",
+    "Description": "Северный в Водолей, южный в Лев."
+  },
+  {
+    "PositionNorth": "Дева",
+    "PositionSouth": "Рыбы",
+    "Description": "Северный в Дева, южный в Рыбы"
+  },
+  {
+    "PositionNorth": "Рыбы",
+    "PositionSouth": "Дева",
+    "Description": "Северный в Рыбы, южный в Дева."
+  },
+  {
+    "PositionNorth": "Овен",
+    "PositionSouth": "весы",
+    "Description": "Северный в Овен, южный в Весы"
+  },
+  {
+    "PositionNorth": "Весы",
+    "PositionSouth": "Овен",
+    "Description": "Северный в Весы, южный в Овен."
   }
   
 ]
