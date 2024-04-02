@@ -22,9 +22,14 @@ class Program
             // string c1 = Uri.EscapeDataString("Москва, Россия"); // Кодирование для использования в URL
             //
             // string url = $"https://geocult.ru/natalnaya-karta-onlayn-raschet?fn={fn}&fd={fd}&fm={fm}&fy={fy}&fh={fh}&fmn={fmn}&c1={c1}&ttz={{ttz}}&tz={{tz}}&tm={{tm}}&lt={{lt}}&ln={{ln}}&hs={{hs}}&sb={{sb}}";
-            string url =
-                "https://geocult.ru/natalnaya-karta-onlayn-raschet?fn=Юлия&fd=12&fm=3&fy=1986&fh=15&fmn=44&c1=Москва%2C+Россия&ttz=20&tz=Europe%2FMoscow&tm=3&lt=55.7522&ln=37.6155&hs=P&sb=1";
+            //Мой
+            // string url =
+            //     "https://geocult.ru/natalnaya-karta-onlayn-raschet?fn=Юлия&fd=12&fm=3&fy=1986&fh=15&fmn=45&c1=Москва%2C+Россия&ttz=20&tz=Europe%2FMoscow&tm=3&lt=55.7522&ln=37.6155&hs=P&sb=1";
 
+            //Карина
+            string url =
+                "https://geocult.ru/natalnaya-karta-onlayn-raschet?fn=Карина&fd=23&fm=4&fy=1997&fh=16&fmn=45&c1=Киев%2C+Украина&ttz=20&tz=Europe%2FKiev&tm=2&lt=50.4546&ln=30.5238&hs=P&sb=1";
+            
             WebClient client = new WebClient();
             string html = client.DownloadString(url);
 
