@@ -10,8 +10,744 @@
     "Description": "Описание для Управителя 1 домав 2 доме."
   },
   {
+    "Home": 1,
+    "UpravitelPosition": 3,
+    "Description": "Описание для Управителя 1 дома в 3 доме."
+  },
+  {
+    "Home": 1,
+    "UpravitelPosition": 4,
+    "Description": "Описание для Управителя 1 дома в 4 доме."
+  },
+  {
+    "Home": 1,
+    "UpravitelPosition": 5,
+    "Description": "Описание для Управителя 1 дома в 5 доме."
+  },
+  {
+    "Home": 1,
+    "UpravitelPosition": 6,
+    "Description": "Описание для Управителя 1 дома в 6 доме."
+  },
+  {
+    "Home": 1,
+    "UpravitelPosition": 7,
+    "Description": "Описание для Управителя 1 дома в 7 доме."
+  },
+  {
+    "Home": 1,
+    "UpravitelPosition": 8,
+    "Description": "Описание для Управителя 1 дома в 8 доме."
+  },
+  {
+    "Home": 1,
+    "UpravitelPosition": 9,
+    "Description": "Описание для Управителя 1 дома в 9 доме."
+  },
+  {
+    "Home": 1,
+    "UpravitelPosition": 10,
+    "Description": "Описание для Управителя 1 дома в 10 доме."
+  },
+  {
+    "Home": 1,
+    "UpravitelPosition": 11,
+    "Description": "Описание для Управителя 1 дома в 11 доме."
+  },
+  {
+    "Home": 1,
+    "UpravitelPosition": 12,
+    "Description": "Описание для Управителя 1 дома в 12 доме."
+  },
+
+
+
+  {
     "Home": 2,
     "UpravitelPosition": 1,
     "Description": "Описание для Управителя 2 дома в 1 доме."
+  },
+  {
+    "Home": 2,
+    "UpravitelPosition": 2,
+    "Description": "Описание для Управителя 2 домав 2 доме."
+  },
+  {
+    "Home": 2,
+    "UpravitelPosition": 3,
+    "Description": "Описание для Управителя 2 дома в 3 доме."
+  },
+  {
+    "Home": 2,
+    "UpravitelPosition": 4,
+    "Description": "Описание для Управителя 2 дома в 4 доме."
+  },
+  {
+    "Home": 2,
+    "UpravitelPosition": 5,
+    "Description": "Описание для Управителя 2 дома в 5 доме."
+  },
+  {
+    "Home": 2,
+    "UpravitelPosition": 6,
+    "Description": "Описание для Управителя 2 дома в 6 доме."
+  },
+  {
+    "Home": 2,
+    "UpravitelPosition": 7,
+    "Description": "Описание для Управителя 2 дома в 7 доме."
+  },
+  {
+    "Home": 2,
+    "UpravitelPosition": 8,
+    "Description": "Описание для Управителя 1 дома в 8 доме."
+  },
+  {
+    "Home": 2,
+    "UpravitelPosition": 9,
+    "Description": "Описание для Управителя 2 дома в 9 доме."
+  },
+  {
+    "Home": 2,
+    "UpravitelPosition": 10,
+    "Description": "Описание для Управителя 2 дома в 10 доме."
+  },
+  {
+    "Home": 2,
+    "UpravitelPosition": 11,
+    "Description": "Описание для Управителя 2 дома в 11 доме."
+  },
+  {
+    "Home": 2,
+    "UpravitelPosition": 12,
+    "Description": "Описание для Управителя 2 дома в 12 доме."
+  },
+
+
+  {
+    "Home": 3,
+    "UpravitelPosition": 1,
+    "Description": "Описание для Управителя 3 дома в 1 доме."
+  },
+  {
+    "Home": 3,
+    "UpravitelPosition": 2,
+    "Description": "Описание для Управителя 3 дома в 2 доме."
+  },
+  {
+    "Home": 3,
+    "UpravitelPosition": 3,
+    "Description": "Описание для Управителя 3 дома в 3 доме."
+  },
+  {
+    "Home": 3,
+    "UpravitelPosition": 4,
+    "Description": "Описание для Управителя 3 дома в 4 доме."
+  },
+  {
+    "Home": 3,
+    "UpravitelPosition": 5,
+    "Description": "Описание для Управителя 3 дома в 5 доме."
+  },
+  {
+    "Home": 3,
+    "UpravitelPosition": 6,
+    "Description": "Описание для Управителя 3 дома в 6 доме."
+  },
+  {
+    "Home": 3,
+    "UpravitelPosition": 7,
+    "Description": "Описание для Управителя 3 дома в 7 доме."
+  },
+  {
+    "Home": 3,
+    "UpravitelPosition": 8,
+    "Description": "Описание для Управителя 3 дома в 8 доме."
+  },
+  {
+    "Home": 3,
+    "UpravitelPosition": 9,
+    "Description": "Описание для Управителя 3 дома в 9 доме."
+  },
+  {
+    "Home": 3,
+    "UpravitelPosition": 10,
+    "Description": "Описание для Управителя 3 дома в 10 доме."
+  },
+  {
+    "Home": 3,
+    "UpravitelPosition": 11,
+    "Description": "Описание для Управителя 3 дома в 11 доме."
+  },
+  {
+    "Home": 3,
+    "UpravitelPosition": 12,
+    "Description": "Описание для Управителя 3 дома в 12 доме."
+  },
+
+
+  {
+    "Home": 4,
+    "UpravitelPosition": 1,
+    "Description": "Описание для Управителя 4 дома в 1 доме."
+  },
+  {
+    "Home": 4,
+    "UpravitelPosition": 2,
+    "Description": "Описание для Управителя 4 домав 2 доме."
+  },
+  {
+    "Home": 4,
+    "UpravitelPosition": 3,
+    "Description": "Описание для Управителя 4 дома в 3 доме."
+  },
+  {
+    "Home": 4,
+    "UpravitelPosition": 4,
+    "Description": "Описание для Управителя 4 дома в 4 доме."
+  },
+  {
+    "Home": 4,
+    "UpravitelPosition": 5,
+    "Description": "Описание для Управителя 4 дома в 5 доме."
+  },
+  {
+    "Home": 4,
+    "UpravitelPosition": 6,
+    "Description": "Описание для Управителя 4 дома в 6 доме."
+  },
+  {
+    "Home": 4,
+    "UpravitelPosition": 7,
+    "Description": "Описание для Управителя 4 дома в 7 доме."
+  },
+  {
+    "Home": 4,
+    "UpravitelPosition": 8,
+    "Description": "Описание для Управителя 4 дома в 8 доме."
+  },
+  {
+    "Home": 4,
+    "UpravitelPosition": 9,
+    "Description": "Описание для Управителя 4 дома в 9 доме."
+  },
+  {
+    "Home": 4,
+    "UpravitelPosition": 10,
+    "Description": "Описание для Управителя 4 дома в 10 доме."
+  },
+  {
+    "Home": 4,
+    "UpravitelPosition": 11,
+    "Description": "Описание для Управителя 4 дома в 11 доме."
+  },
+  {
+    "Home": 4,
+    "UpravitelPosition": 12,
+    "Description": "Описание для Управителя 4 дома в 12 доме."
+  },
+
+
+
+  {
+    "Home": 5,
+    "UpravitelPosition": 1,
+    "Description": "Описание для Управителя 5 дома в 1 доме."
+  },
+  {
+    "Home": 5,
+    "UpravitelPosition": 2,
+    "Description": "Описание для Управителя 5 домав 2 доме."
+  },
+  {
+    "Home": 5,
+    "UpravitelPosition": 3,
+    "Description": "Описание для Управителя 5 дома в 3 доме."
+  },
+  {
+    "Home": 5,
+    "UpravitelPosition": 4,
+    "Description": "Описание для Управителя 5 дома в 4 доме."
+  },
+  {
+    "Home": 1,
+    "UpravitelPosition": 5,
+    "Description": "Описание для Управителя 5 дома в 5 доме."
+  },
+  {
+    "Home": 5,
+    "UpravitelPosition": 6,
+    "Description": "Описание для Управителя 5 дома в 6 доме."
+  },
+  {
+    "Home": 5,
+    "UpravitelPosition": 7,
+    "Description": "Описание для Управителя 5 дома в 7 доме."
+  },
+  {
+    "Home": 5,
+    "UpravitelPosition": 8,
+    "Description": "Описание для Управителя 5 дома в 8 доме."
+  },
+  {
+    "Home": 5,
+    "UpravitelPosition": 9,
+    "Description": "Описание для Управителя 5 дома в 9 доме."
+  },
+  {
+    "Home": 5,
+    "UpravitelPosition": 10,
+    "Description": "Описание для Управителя 5 дома в 10 доме."
+  },
+  {
+    "Home": 5,
+    "UpravitelPosition": 11,
+    "Description": "Описание для Управителя 5 дома в 11 доме."
+  },
+  {
+    "Home": 5,
+    "UpravitelPosition": 12,
+    "Description": "Описание для Управителя 5 дома в 12 доме."
+  },
+
+
+
+  {
+    "Home": 6,
+    "UpravitelPosition": 1,
+    "Description": "Описание для Управителя 6 дома в 1 доме."
+  },
+  {
+    "Home": 6,
+    "UpravitelPosition": 2,
+    "Description": "Описание для Управителя 6 домав 2 доме."
+  },
+  {
+    "Home": 6,
+    "UpravitelPosition": 3,
+    "Description": "Описание для Управителя 6 дома в 3 доме."
+  },
+  {
+    "Home": 1,
+    "UpravitelPosition": 4,
+    "Description": "Описание для Управителя 6 дома в 4 доме."
+  },
+  {
+    "Home": 6,
+    "UpravitelPosition": 5,
+    "Description": "Описание для Управителя 6 дома в 5 доме."
+  },
+  {
+    "Home": 6,
+    "UpravitelPosition": 6,
+    "Description": "Описание для Управителя 6 дома в 6 доме."
+  },
+  {
+    "Home": 6,
+    "UpravitelPosition": 7,
+    "Description": "Описание для Управителя 6 дома в 7 доме."
+  },
+  {
+    "Home": 6,
+    "UpravitelPosition": 8,
+    "Description": "Описание для Управителя 6 дома в 8 доме."
+  },
+  {
+    "Home": 6,
+    "UpravitelPosition": 9,
+    "Description": "Описание для Управителя 6 дома в 9 доме."
+  },
+  {
+    "Home": 6,
+    "UpravitelPosition": 10,
+    "Description": "Описание для Управителя 6 дома в 10 доме."
+  },
+  {
+    "Home": 6,
+    "UpravitelPosition": 11,
+    "Description": "Описание для Управителя 6 дома в 11 доме."
+  },
+  {
+    "Home": 6,
+    "UpravitelPosition": 12,
+    "Description": "Описание для Управителя 6 дома в 12 доме."
+  },
+
+
+
+  {
+    "Home": 7,
+    "UpravitelPosition": 1,
+    "Description": "Описание для Управителя 7 дома в 1 доме."
+  },
+  {
+    "Home": 7,
+    "UpravitelPosition": 2,
+    "Description": "Описание для Управителя 7 домав 2 доме."
+  },
+  {
+    "Home": 7,
+    "UpravitelPosition": 3,
+    "Description": "Описание для Управителя 7 дома в 3 доме."
+  },
+  {
+    "Home": 7,
+    "UpravitelPosition": 4,
+    "Description": "Описание для Управителя 7 дома в 4 доме."
+  },
+  {
+    "Home": 7,
+    "UpravitelPosition": 5,
+    "Description": "Описание для Управителя 7 дома в 5 доме."
+  },
+  {
+    "Home": 7,
+    "UpravitelPosition": 6,
+    "Description": "Описание для Управителя 7 дома в 6 доме."
+  },
+  {
+    "Home": 7,
+    "UpravitelPosition": 7,
+    "Description": "Описание для Управителя 7 дома в 7 доме."
+  },
+  {
+    "Home": 7,
+    "UpravitelPosition": 8,
+    "Description": "Описание для Управителя 7 дома в 8 доме."
+  },
+  {
+    "Home": 7,
+    "UpravitelPosition": 9,
+    "Description": "Описание для Управителя 7 дома в 9 доме."
+  },
+  {
+    "Home": 7,
+    "UpravitelPosition": 10,
+    "Description": "Описание для Управителя 7 дома в 10 доме."
+  },
+  {
+    "Home": 7,
+    "UpravitelPosition": 11,
+    "Description": "Описание для Управителя 7 дома в 11 доме."
+  },
+  {
+    "Home": 7,
+    "UpravitelPosition": 12,
+    "Description": "Описание для Управителя 7 дома в 12 доме."
+  },
+
+  
+  
+  {
+    "Home": 8,
+    "UpravitelPosition": 1,
+    "Description": "Описание для Управителя 8 дома в 1 доме."
+  },
+  {
+    "Home": 8,
+    "UpravitelPosition": 2,
+    "Description": "Описание для Управителя 8 домав 2 доме."
+  },
+  {
+    "Home": 8,
+    "UpravitelPosition": 3,
+    "Description": "Описание для Управителя 8 дома в 3 доме."
+  },
+  {
+    "Home": 8,
+    "UpravitelPosition": 4,
+    "Description": "Описание для Управителя 8 дома в 4 доме."
+  },
+  {
+    "Home": 8,
+    "UpravitelPosition": 5,
+    "Description": "Описание для Управителя 8 дома в 5 доме."
+  },
+  {
+    "Home": 8,
+    "UpravitelPosition": 6,
+    "Description": "Описание для Управителя 8 дома в 6 доме."
+  },
+  {
+    "Home": 8,
+    "UpravitelPosition": 7,
+    "Description": "Описание для Управителя 8 дома в 7 доме."
+  },
+  {
+    "Home": 8,
+    "UpravitelPosition": 8,
+    "Description": "Описание для Управителя 8 дома в 8 доме."
+  },
+  {
+    "Home": 8,
+    "UpravitelPosition": 9,
+    "Description": "Описание для Управителя 8 дома в 9 доме."
+  },
+  {
+    "Home": 8,
+    "UpravitelPosition": 10,
+    "Description": "Описание для Управителя 8 дома в 10 доме."
+  },
+  {
+    "Home": 8,
+    "UpravitelPosition": 11,
+    "Description": "Описание для Управителя 8 дома в 11 доме."
+  },
+  {
+    "Home": 8,
+    "UpravitelPosition": 12,
+    "Description": "Описание для Управителя 8 дома в 12 доме."
+  },
+
+  
+
+  {
+    "Home": 9,
+    "UpravitelPosition": 1,
+    "Description": "Описание для Управителя 9 дома в 1 доме."
+  },
+  {
+    "Home": 9,
+    "UpravitelPosition": 2,
+    "Description": "Описание для Управителя 9 домав 2 доме."
+  },
+  {
+    "Home": 9,
+    "UpravitelPosition": 3,
+    "Description": "Описание для Управителя 9 дома в 3 доме."
+  },
+  {
+    "Home": 9,
+    "UpravitelPosition": 4,
+    "Description": "Описание для Управителя 9 дома в 4 доме."
+  },
+  {
+    "Home": 9,
+    "UpravitelPosition": 5,
+    "Description": "Описание для Управителя 9 дома в 5 доме."
+  },
+  {
+    "Home": 9,
+    "UpravitelPosition": 6,
+    "Description": "Описание для Управителя 9 дома в 6 доме."
+  },
+  {
+    "Home": 9,
+    "UpravitelPosition": 7,
+    "Description": "Описание для Управителя 9 дома в 7 доме."
+  },
+  {
+    "Home": 9,
+    "UpravitelPosition": 8,
+    "Description": "Описание для Управителя 9 дома в 8 доме."
+  },
+  {
+    "Home": 9,
+    "UpravitelPosition": 9,
+    "Description": "Описание для Управителя 9 дома в 9 доме."
+  },
+  {
+    "Home": 9,
+    "UpravitelPosition": 10,
+    "Description": "Описание для Управителя 9 дома в 10 доме."
+  },
+  {
+    "Home": 9,
+    "UpravitelPosition": 11,
+    "Description": "Описание для Управителя 9 дома в 11 доме."
+  },
+  {
+    "Home": 9,
+    "UpravitelPosition": 12,
+    "Description": "Описание для Управителя 9 дома в 12 доме."
+  },
+
+  
+
+  {
+    "Home": 10,
+    "UpravitelPosition": 1,
+    "Description": "Описание для Управителя 10 дома в 1 доме."
+  },
+  {
+    "Home": 10,
+    "UpravitelPosition": 2,
+    "Description": "Описание для Управителя 10 домав 2 доме."
+  },
+  {
+    "Home": 10,
+    "UpravitelPosition": 3,
+    "Description": "Описание для Управителя 10 дома в 3 доме."
+  },
+  {
+    "Home": 10,
+    "UpravitelPosition": 4,
+    "Description": "Описание для Управителя 10 дома в 4 доме."
+  },
+  {
+    "Home": 10,
+    "UpravitelPosition": 5,
+    "Description": "Описание для Управителя 10 дома в 5 доме."
+  },
+  {
+    "Home": 10,
+    "UpravitelPosition": 6,
+    "Description": "Описание для Управителя 10 дома в 6 доме."
+  },
+  {
+    "Home": 10,
+    "UpravitelPosition": 7,
+    "Description": "Описание для Управителя 10 дома в 7 доме."
+  },
+  {
+    "Home": 10,
+    "UpravitelPosition": 8,
+    "Description": "Описание для Управителя 10 дома в 8 доме."
+  },
+  {
+    "Home": 10,
+    "UpravitelPosition": 9,
+    "Description": "Описание для Управителя 10 дома в 9 доме."
+  },
+  {
+    "Home": 10,
+    "UpravitelPosition": 10,
+    "Description": "Описание для Управителя 10 дома в 10 доме."
+  },
+  {
+    "Home": 10,
+    "UpravitelPosition": 11,
+    "Description": "Описание для Управителя 10 дома в 11 доме."
+  },
+  {
+    "Home": 10,
+    "UpravitelPosition": 12,
+    "Description": "Описание для Управителя 10 дома в 12 доме."
+  },
+
+
+
+  {
+    "Home": 11,
+    "UpravitelPosition": 1,
+    "Description": "Описание для Управителя 11 дома в 1 доме."
+  },
+  {
+    "Home": 11,
+    "UpravitelPosition": 2,
+    "Description": "Описание для Управителя 11 домав 2 доме."
+  },
+  {
+    "Home": 11,
+    "UpravitelPosition": 3,
+    "Description": "Описание для Управителя 11 дома в 3 доме."
+  },
+  {
+    "Home": 11,
+    "UpravitelPosition": 4,
+    "Description": "Описание для Управителя 11 дома в 4 доме."
+  },
+  {
+    "Home": 11,
+    "UpravitelPosition": 5,
+    "Description": "Описание для Управителя 11 дома в 5 доме."
+  },
+  {
+    "Home": 11,
+    "UpravitelPosition": 6,
+    "Description": "Описание для Управителя 11 дома в 6 доме."
+  },
+  {
+    "Home": 1,
+    "UpravitelPosition": 7,
+    "Description": "Описание для Управителя 1 дома в 7 доме."
+  },
+  {
+    "Home": 11,
+    "UpravitelPosition": 8,
+    "Description": "Описание для Управителя 11 дома в 8 доме."
+  },
+  {
+    "Home": 11,
+    "UpravitelPosition": 9,
+    "Description": "Описание для Управителя 11 дома в 9 доме."
+  },
+  {
+    "Home": 11,
+    "UpravitelPosition": 10,
+    "Description": "Описание для Управителя 11 дома в 10 доме."
+  },
+  {
+    "Home": 11,
+    "UpravitelPosition": 11,
+    "Description": "Описание для Управителя 11 дома в 11 доме."
+  },
+  {
+    "Home": 11,
+    "UpravitelPosition": 12,
+    "Description": "Описание для Управителя 11 дома в 12 доме."
+  },
+
+
+
+  {
+    "Home": 12,
+    "UpravitelPosition": 1,
+    "Description": "Описание для Управителя 12 дома в 1 доме."
+  },
+  {
+    "Home": 12,
+    "UpravitelPosition": 2,
+    "Description": "Описание для Управителя 12 домав 2 доме."
+  },
+  {
+    "Home": 12,
+    "UpravitelPosition": 3,
+    "Description": "Описание для Управителя 12 дома в 3 доме."
+  },
+  {
+    "Home": 12,
+    "UpravitelPosition": 4,
+    "Description": "Описание для Управителя 12 дома в 4 доме."
+  },
+  {
+    "Home": 12,
+    "UpravitelPosition": 5,
+    "Description": "Описание для Управителя 12 дома в 5 доме."
+  },
+  {
+    "Home": 12,
+    "UpravitelPosition": 6,
+    "Description": "Описание для Управителя 12 дома в 6 доме."
+  },
+  {
+    "Home": 12,
+    "UpravitelPosition": 7,
+    "Description": "Описание для Управителя 12 дома в 7 доме."
+  },
+  {
+    "Home": 12,
+    "UpravitelPosition": 8,
+    "Description": "Описание для Управителя 12 дома в 8 доме."
+  },
+  {
+    "Home": 12,
+    "UpravitelPosition": 9,
+    "Description": "Описание для Управителя 12 дома в 9 доме."
+  },
+  {
+    "Home": 12,
+    "UpravitelPosition": 10,
+    "Description": "Описание для Управителя 12 дома в 10 доме."
+  },
+  {
+    "Home": 12,
+    "UpravitelPosition": 11,
+    "Description": "Описание для Управителя 12 дома в 11 доме."
+  },
+  {
+    "Home": 12,
+    "UpravitelPosition": 12,
+    "Description": "Описание для Управителя 12 дома в 12 доме."
   }
 ]

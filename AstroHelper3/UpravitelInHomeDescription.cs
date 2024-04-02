@@ -64,8 +64,8 @@ public class UpravitelInHomeDescription
                             d.Home == homeDb.Home && d.UpravitelPosition == planetHomeNumber)?.Description 
                                           ?? "Описание отсутствует.";
 
-                        writer.WriteLine($"Дом {homeDb.Home} ({homeDb.Position}), управитель - {planetName}" +
-                                         $"в доме {planetHomeNumber}.\n " +
+                        writer.WriteLine($"Дом {homeDb.Home} ({homeDb.Position}), управитель - {planetName}"  +
+                                         $" в доме {planetHomeNumber}.\n " +
                                          $"Описание: {description}\n");
                     }
                     }
