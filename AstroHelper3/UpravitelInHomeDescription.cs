@@ -4,6 +4,7 @@ using System.IO;
 using System.Text.Json;
 namespace AstroHelper3;
 
+
 public class UpravitelInHomeDescription
 {
     private AppDBContext _context;
@@ -65,8 +66,8 @@ public class UpravitelInHomeDescription
                                           ?? "Описание отсутствует.";
 
                         writer.WriteLine($"Дом {homeDb.Home} ({homeDb.Position}), управитель - {planetName}"  +
-                                         $" в доме {planetHomeNumber}.\n " +
-                                         $"Описание: {description}\n");
+                                         $" в доме {planetHomeNumber}.\n" +
+                                         $"{description}\n");
                     }
                     }
                     else

@@ -32,6 +32,11 @@ public class PlanetInHomeDescription
 
             foreach (var planet in planets)
             {
+                if (planet.Planets == "Вертекс" || planet.Planets == "Фортуны")
+                {
+                    continue; 
+                }
+                
                 string description = GenerateDescriptionForPlanetinHome(planet, descriptions);
                 writer.WriteLine(description);
             }
