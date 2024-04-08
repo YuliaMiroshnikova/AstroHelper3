@@ -65,7 +65,7 @@ public class PlanetInHomeDescription
         
         if (!string.IsNullOrEmpty(jsonDescription))
         {
-            return $"{planet.Planets}, Дом: {planet.Home}, Позиция: {planet.Position}. \n" +
+            return $"\n\n{planet.Planets}, Дом: {planet.Home}, Позиция: {planet.Position}. \n" +
                    $"{jsonDescription}\n";
         }
 
