@@ -55,9 +55,18 @@ public class UpravitelInHomeDescription
             {
                 if (rulerToPlanetMapping.TryGetValue(homeDb.Position, out var planetName))
                 {
-                   
+                    if (planetName == "Восхузел")
+                    {
+                        planetName = "Раху";
+                    }
+                    else if (planetName == "Низхузел")
+                    {
+                        planetName = "Кету";
+                    }
+                    
                     var planetHomeNumber = planetsDbs.FirstOrDefault(p => p.Planets == planetName)?.Home;
 
+                    
                     if (planetHomeNumber != null)
                     {
                         
@@ -65,7 +74,7 @@ public class UpravitelInHomeDescription
                             d.Home == homeDb.Home && d.UpravitelPosition == planetHomeNumber)?.Description 
                                           ?? "Описание отсутствует.";
 
-                        writer.WriteLine($"Дом {homeDb.Home} ({homeDb.Position}), управитель - {planetName}"  +
+                        writer.WriteLine($"\n\nДом {homeDb.Home} ({homeDb.Position}), управитель - {planetName}"  +
                                          $" в доме {planetHomeNumber}.\n" +
                                          $"{description}\n");
                     }

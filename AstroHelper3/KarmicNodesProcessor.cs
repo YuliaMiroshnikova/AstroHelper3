@@ -54,9 +54,9 @@ public class KarmicNodesProcessor
                 {
                     if (description.PositionNorth == northNode.Position && description.PositionSouth == southNode.Position)
                     {
-                        writer.WriteLine($"Раху (Знак: {northNode.Position}),\n" +
-                                         $"Кету (Знак: {southNode.Position}).\n " +
-                                         $"Описание: {description.Description}\n");
+                        writer.WriteLine($"\n\nРаху (Знак: {northNode.Position}),\n" +
+                                         $"Кету (Знак: {southNode.Position}).\n" +
+                                         $"{description.Description}\n");
                        
                     }
                 }

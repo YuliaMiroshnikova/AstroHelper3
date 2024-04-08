@@ -53,9 +53,19 @@ public class PlanetInHomeDescription
     {
         var jsonDescription = descriptions.FirstOrDefault(d => d.Planet == planet.Planets && d.Home == planet.Home)?.Description;
 
+        string planetName = planet.Planets;
+        if (planetName == "Восхузел")
+        {
+            planetName = "Раху";
+        }
+        else if (planetName == "Низхузел")
+        {
+            planetName = "Кету";
+        }
+        
         if (!string.IsNullOrEmpty(jsonDescription))
         {
-            return $"{planet.Planets}, Дом: {planet.Home}, Позиция: {planet.Position}. \n " +
+            return $"{planet.Planets}, Дом: {planet.Home}, Позиция: {planet.Position}. \n" +
                    $"{jsonDescription}\n";
         }
 
