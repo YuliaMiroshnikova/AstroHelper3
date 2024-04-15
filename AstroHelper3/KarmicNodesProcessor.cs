@@ -39,9 +39,9 @@ public class KarmicNodesProcessor
                 {
                     if (description.HomeNorth == northNode.Home && description.HomeSouth == southNode.Home)
                     {
-                        writer.WriteLine($"Раху (Дом: {northNode.Home}),\n" +
+                        writer.WriteLine($"\n\nРаху (Дом: {northNode.Home}),\n" +
                                          $"Кету (Дом: {southNode.Home}). \n " +
-                                         $"Описание: {description.Description}\n");
+                                         $"{description.Description}\n");
                         
                     }
                 }

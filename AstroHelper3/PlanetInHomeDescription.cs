@@ -26,7 +26,7 @@ public class PlanetInHomeDescription
         
         List<HomeDescription> descriptions = LoadDescriptions(_jsonFilePath);
 
-        using (var writer = new StreamWriter(_outputFilePath, false))
+        using (var writer = new StreamWriter(_outputFilePath, true))
         {
             var planets = _context.PlanetsDbs.Include(p => p.HomeNavigation).ToList();
 
